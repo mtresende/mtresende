@@ -1,7 +1,7 @@
 ##  Sobre mim
 
 - Estudante de Análise e Desenvolvimento de Sistemas.
-- Aprofundando meus conhecimentos em C# e Java.
+- Focado em desenvolvimento Full-Stack
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtresende&layout=compact&theme=dark" alt="Top Languages">
 
