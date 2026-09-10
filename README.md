@@ -40,3 +40,7 @@ Tenho experiência com desenvolvimento **Back-End**, integração de APIs, autom
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge\&logo=azuredevops\&logoColor=white)
 
+
+##
+| <img src="https://github-readme-stats-six-iota-11.vercel.app/api/top-langs/?username=mtresende&layout=compact&theme=dark" width="330"/> | <img src="https://github-readme-stats-six-iota-11.vercel.app/api?username=mtresende&show_icons=true&theme=dark" width="435"/> |
+|---|---|
