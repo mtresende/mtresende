@@ -1,6 +1,6 @@
 # Sobre mim
 
-### Desenvolvedor de Software | Back-End |
+### Desenvolvedor de Software | Back-End | FullStack
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor apaixonado por tecnologia e desenvolvimento de software.
 
